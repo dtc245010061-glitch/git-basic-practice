@@ -1,0 +1,5 @@
+Ghi chú học tập Git:
+- Working Directory: Thư mục làm việc thực tế.
+- Staging Area: Khu vực chuẩn bị trước khi commit.
+- Repository: Nơi lưu trữ các snapshot/commit.
+- Đã hoàn thành Bài 2: thực hành commit nhiều lần.
