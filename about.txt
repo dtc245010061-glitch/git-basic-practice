@@ -1,0 +1,4 @@
+Thông tin dự án:
+- Tác giả: Nguyễn Hà Nam
+- Mã sinh viên: DTC245010061
+- Mục tiêu: Thực hành các thao tác làm việc hai chiều giữa Local và Remote GitHub (Bài 5).
